@@ -1,3 +1,7 @@
+package unchw;
+
+import org.junit.After;
+
 public class Jclass {
 	@Before
 	public void forchrome() throws Exception {
@@ -190,5 +194,4 @@ public class Jclass {
 				//home page should be opened after identified user
 				System.out.println("Test for firefox browser is ended");
 			}
-
 }
